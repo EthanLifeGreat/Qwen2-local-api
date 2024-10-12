@@ -5,7 +5,7 @@ Qwen2 vllm OpenAI api &amp; gradio front-end
 ## 1. Install Dependencies
 ### conda env:
 
-Install Anaconda dependencies listed in `environment.yml`, you may want to use command like this: (which is not validated however)
+Install Anaconda dependencies listed in `environment.yml`, you may want to use command like this:
 
  `conda env create -f environment.yml -n qwen2`
 
