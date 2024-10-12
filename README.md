@@ -39,13 +39,14 @@ python model_download.py
 bash vllm_init.sh
 ```
 
-Now a OpenAI API is supposed to be running on `http://0.0.0.0:8008`
+Now an OpenAI API is supposed to be running on `http://0.0.0.0:8008`
 
 ## 4. Call API
 
 for chatbot web demo, run
 
 ```bash
+# start web UI on local IP port 8000 (by default)
 python qw2_web_openai.py
 ```
 
